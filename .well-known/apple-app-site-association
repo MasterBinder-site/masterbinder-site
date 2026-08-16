@@ -1,0 +1,16 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": [
+          "3LSVQ7CS52.com.cato.FullKurv"
+        ],
+        "components": [
+          {
+            "/": "/fullkurv-site/open*"
+          }
+        ]
+      }
+    ]
+  }
+}
